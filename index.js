@@ -1,4 +1,4 @@
-import { isString } from 'is-js';
+import { isString } from 'ohjs-is';
 
 /**
  * A wrapper for increased usability of `window.localStorage`.
