@@ -1,8 +1,8 @@
 {
-  "name": "local-storage-js",
+  "name": "ohjs-local-storage",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "is-js": "justin-oh/is-js"
+    "is-js": "justin-oh/ohjs-is"
   }
 }
