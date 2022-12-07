@@ -1,4 +1,4 @@
-import { isString } from '../is-js/index.js';
+import { isString } from 'is-js';
 
 /**
  * A wrapper for increased usability of `window.localStorage`.
